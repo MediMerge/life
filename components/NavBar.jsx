@@ -27,21 +27,6 @@ const NavBar = () => {
             icon: <LearnIcon />,
             title: `${t.learn}`,
             link: '/learn'
-        },
-        {
-            icon: <DonateIcon />,
-            title: `${t.campaigns}`,
-            link: '/campaigns'
-        },
-        {
-            icon: <PartnerIcon />,
-            title: `${t.partnerWithUs}`,
-            link: '/partners'
-        },
-        {
-            icon: <ContribIcon />,
-            title: `${t.contributeData}`,
-            link: '/data'
         }
     ];
 
